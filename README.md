@@ -38,7 +38,18 @@ https://www.educative.io/courses/grokking-the-coding-interview <br />
 
 
 ### System Design
-TODO:
+- Pragmatic System Design Udemy <br />
+https://www.udemy.com/course/pragmatic-system-design/
+
+- Grokking the System Design Interview <br />
+https://www.educative.io/courses/grokking-the-system-design-interview
+
+- Grokking the Advanced System Design Interview <br />
+https://www.educative.io/courses/grokking-adv-system-design-intvw
+
+- System Design Interview Book <br />
+https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF
+
 ### Agile
 
 ### Behavioral
