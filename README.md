@@ -42,6 +42,10 @@ https://www.educative.io/courses/grokking-the-coding-interview <br />
 ### Solid
 https://github.com/MahmoudAbuzeed/SOLID-Principles
 
+### Relevant Books
+* cracking the coding interview
+* cracking the system design interview
+
 TODO:
 
 ### Agile
