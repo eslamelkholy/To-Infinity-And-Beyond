@@ -18,7 +18,7 @@ https://leetcode.com/explore/learn/card/binary-search/
 https://leetcode.com/explore/learn/card/linked-list/
 
 - Backtraking <br />
-https://www.youtube.com/watch?v=A80YzvNwqXA&ab_channel=freeCodeCamp.org
+https://www.youtube.com/watch?v=A80YzvNwqXA&ab_channel=freeCodeCamp.org <br />
 https://www.youtube.com/watch?v=s7AvT7cGdSo&ab_channel=NeetCode
 - Sliding Window <br />
 https://www.youtube.com/watch?v=jM2dhDPYMQM&t=1465s&ab_channel=QuanticDev
@@ -38,20 +38,19 @@ https://www.educative.io/courses/grokking-the-coding-interview <br />
 
 
 ### System Design
-
-### Solid
-https://github.com/MahmoudAbuzeed/SOLID-Principles
-
-### Relevant Books
-* cracking the coding interview
-* cracking the system design interview
-
 TODO:
-
 ### Agile
 
 ### Behavioral
 
 ### General Topics
+
+### Solid & Design Patterns
+https://github.com/eslamelkholy/Design-Patterns-in-The-Kitchen <br />
+https://github.com/MahmoudAbuzeed/SOLID-Principles
+
+### Relevant Books
+* cracking the coding interview
+* cracking the system design interview
 
 ### Fuck Omar Akram Section
