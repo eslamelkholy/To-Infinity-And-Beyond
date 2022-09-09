@@ -40,6 +40,8 @@ https://www.educative.io/courses/grokking-the-coding-interview <br />
 ### System Design
 TODO:
 
+### Solid
+
 ### Agile
 
 ### Behavioral
