@@ -33,4 +33,6 @@ https://www.youtube.com/watch?v=bC7o8P_Ste4&ab_channel=freeCodeCamp.org
 - Dynamic Programming <br />
 https://leetcode.com/explore/learn/card/dynamic-programming/
 
+##### General Links
+https://www.educative.io/courses/grokking-the-coding-interview <br />
 
