@@ -36,3 +36,12 @@ https://leetcode.com/explore/learn/card/dynamic-programming/
 ##### General Links
 https://www.educative.io/courses/grokking-the-coding-interview <br />
 
+
+### System Design
+TODO:
+
+### Agile
+
+### Behavioral
+
+### General Topics
