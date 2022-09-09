@@ -29,6 +29,8 @@ https://leetcode.com/explore/learn/card/graph/
 - Heap
 https://leetcode.com/explore/learn/card/heap/
 - Greedy
-
+https://www.youtube.com/watch?v=bC7o8P_Ste4&ab_channel=freeCodeCamp.org
 - Dynamic Programming
 https://leetcode.com/explore/learn/card/dynamic-programming/
+
+
