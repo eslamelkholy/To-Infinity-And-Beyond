@@ -34,7 +34,12 @@ https://www.youtube.com/watch?v=bC7o8P_Ste4&ab_channel=freeCodeCamp.org
 https://leetcode.com/explore/learn/card/dynamic-programming/
 
 ##### General Links
-https://www.educative.io/courses/grokking-the-coding-interview <br />
+
+- Grokking The Coding Interview <br />
+https://www.educative.io/courses/grokking-the-coding-interview
+
+- Cracking the Coding Interview <br />
+https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850
 
 
 ### System Design
