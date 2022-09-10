@@ -14,8 +14,8 @@ https://leetcode.com/explore/learn/card/fun-with-arrays/
 https://leetcode.com/explore/learn/card/recursion-i/ <br />
 https://leetcode.com/explore/learn/card/recursion-ii/
 
-- Sorting
-https://leetcode.com/explore/learn/card/sorting/ <br />
+- Sorting <br />
+https://leetcode.com/explore/learn/card/sorting/ 
 
 - Binary Tree & Trees <br />
 https://leetcode.com/explore/learn/card/binary-search/
