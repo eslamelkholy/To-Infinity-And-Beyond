@@ -10,12 +10,16 @@ https://leetcode.com/explore/learn/card/hash-table/
 
 - Arrays <br />
 https://leetcode.com/explore/learn/card/fun-with-arrays/
+
+- Sorting <br />
+https://leetcode.com/explore/learn/card/sorting/ 
+
 - Recursion <br />
 https://leetcode.com/explore/learn/card/recursion-i/ <br />
 https://leetcode.com/explore/learn/card/recursion-ii/
 
-- Sorting <br />
-https://leetcode.com/explore/learn/card/sorting/ 
+- Queue & Stack <br/>
+https://leetcode.com/explore/learn/card/queue-stack/
 
 - Binary Tree & Trees <br />
 https://leetcode.com/explore/learn/card/binary-search/
