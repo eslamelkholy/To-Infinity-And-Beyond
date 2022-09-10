@@ -2,6 +2,9 @@
 We will Hack your Career At this Repository
 
 ### Problem Solving
+- The LeetCode Beginner's Guide <br />
+https://leetcode.com/explore/featured/card/the-leetcode-beginners-guide/
+
 - Hash Table <br />
 https://leetcode.com/explore/learn/card/hash-table/
 
@@ -44,8 +47,7 @@ https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478
 - Top Interview Questions <br />
 https://leetcode.com/explore/featured/card/top-interview-questions-easy/
 
-- The LeetCode Beginner's Guide <br />
-https://leetcode.com/explore/featured/card/the-leetcode-beginners-guide/
+
 
 ### System Design
 - Pragmatic System Design Udemy <br />
