@@ -22,7 +22,9 @@ https://leetcode.com/explore/learn/card/recursion-ii/
 https://leetcode.com/explore/learn/card/queue-stack/
 
 - Binary Tree & Trees <br />
-https://leetcode.com/explore/learn/card/binary-search/
+https://leetcode.com/explore/learn/card/data-structure-tree/
+https://leetcode.com/explore/learn/card/n-ary-tree/
+
 - Binary Search <br />
 https://leetcode.com/explore/learn/card/binary-search/
 - Linkedlist <br />
