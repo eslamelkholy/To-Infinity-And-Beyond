@@ -75,4 +75,3 @@ https://github.com/MahmoudAbuzeed/SOLID-Principles
 * cracking the system design interview
 
 ### Fuck Omar Akram Section
-Omar is very bitch 
