@@ -13,6 +13,10 @@ https://leetcode.com/explore/learn/card/fun-with-arrays/
 - Recursion <br />
 https://leetcode.com/explore/learn/card/recursion-i/ <br />
 https://leetcode.com/explore/learn/card/recursion-ii/
+
+- Sorting
+https://leetcode.com/explore/learn/card/sorting/ <br />
+
 - Binary Tree & Trees <br />
 https://leetcode.com/explore/learn/card/binary-search/
 - Binary Search <br />
