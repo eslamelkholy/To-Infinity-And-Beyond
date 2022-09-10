@@ -41,6 +41,11 @@ https://www.educative.io/courses/grokking-the-coding-interview
 - Cracking the Coding Interview <br />
 https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/0984782850
 
+- Top Interview Questions <br />
+https://leetcode.com/explore/featured/card/top-interview-questions-easy/
+
+- The LeetCode Beginner's Guide <br />
+https://leetcode.com/explore/featured/card/the-leetcode-beginners-guide/
 
 ### System Design
 - Pragmatic System Design Udemy <br />
