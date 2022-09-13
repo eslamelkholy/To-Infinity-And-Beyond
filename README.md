@@ -57,6 +57,8 @@ https://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478
 - Top Interview Questions <br />
 https://leetcode.com/explore/featured/card/top-interview-questions-easy/
 
+- Crack Amazon Coding Interview Question
+https://www.educative.io/blog/crack-amazon-coding-interview-questions
 
 
 ### System Design
