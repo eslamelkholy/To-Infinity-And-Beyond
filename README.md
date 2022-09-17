@@ -82,7 +82,7 @@ https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF
 
 ### Solid & Design Patterns
 https://github.com/eslamelkholy/Design-Patterns-in-The-Kitchen <br />
-https://github.com/MahmoudAbuzeed/SOLID-Principles
+https://github.com/MahmoudAbuzeed/SOLID-Principles  <br />
 https://www.educative.io/blog/solid-principles-oop-c-sharp#what
 
 ### Relevant Books
