@@ -65,6 +65,9 @@ https://www.educative.io/blog/crack-amazon-coding-interview-questions
 - Pragmatic System Design Udemy <br />
 https://www.udemy.com/course/pragmatic-system-design/
 
+- Scalability & System Design for Developers <br />
+https://www.educative.io/path/scalability-system-design
+
 - Grokking the System Design Interview <br />
 https://www.educative.io/courses/grokking-the-system-design-interview
 
@@ -73,6 +76,8 @@ https://www.educative.io/courses/grokking-adv-system-design-intvw
 
 - System Design Interview Book <br />
 https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF
+
+
 
 ### Agile
 
