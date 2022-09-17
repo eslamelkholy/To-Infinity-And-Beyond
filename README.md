@@ -82,6 +82,11 @@ https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF
 ### Agile
 
 ### Behavioral
+- How to answer Amazon’s trickiest interview question <br />
+https://www.educative.io/blog/why-amazon-interview-question
+
+- How to prepare and ace interview questions  <br />
+https://www.educative.io/blog/behavioral-interviews-how-to-prepare-and-ace-interview-questions
 
 ### General Topics
 
