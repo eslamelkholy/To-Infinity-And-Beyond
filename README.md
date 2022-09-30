@@ -47,7 +47,7 @@ https://www.youtube.com/watch?v=bC7o8P_Ste4&ab_channel=freeCodeCamp.org
 https://leetcode.com/explore/learn/card/dynamic-programming/
 
 - Mixed List Includes all Topics <br/>
-https://leetcode.com/list?selectedList=9i3vd4f6
+https://leetcode.com/list/9i3vd4f6
 
 ##### General Links
 
