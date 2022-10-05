@@ -9,7 +9,8 @@ https://leetcode.com/explore/featured/card/the-leetcode-beginners-guide/
 https://leetcode.com/explore/learn/card/hash-table/
 
 - Arrays <br />
-https://leetcode.com/explore/learn/card/fun-with-arrays/
+https://leetcode.com/explore/learn/card/fun-with-arrays/ <br/>
+https://leetcode.com/explore/learn/card/array-and-string/ <br/>
 
 - Sorting <br />
 https://leetcode.com/explore/learn/card/sorting/ 
