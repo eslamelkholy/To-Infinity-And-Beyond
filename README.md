@@ -40,8 +40,8 @@ https://www.youtube.com/watch?v=jM2dhDPYMQM&t=1465s&ab_channel=QuanticDev
 - Graph <br />
 https://leetcode.com/explore/learn/card/graph/
 - Heap <br />
-https://leetcode.com/explore/learn/card/heap/
-https://www.youtube.com/watch?v=t0Cq6tVNRBA&ab_channel=HackerRank
+https://leetcode.com/explore/learn/card/heap/ <br />
+https://www.youtube.com/watch?v=t0Cq6tVNRBA&ab_channel=HackerRank <br />
 https://www.youtube.com/watch?v=B7hVxCmfPtM&ab_channel=MITOpenCourseWare
 - Greedy <br />
 https://www.youtube.com/watch?v=bC7o8P_Ste4&ab_channel=freeCodeCamp.org
