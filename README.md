@@ -12,12 +12,6 @@ https://leetcode.com/explore/learn/card/hash-table/
 https://leetcode.com/explore/learn/card/fun-with-arrays/ <br/>
 https://leetcode.com/explore/learn/card/array-and-string/ <br/>
 
-- Sorting <br />
-https://leetcode.com/explore/learn/card/sorting/ 
-
-- Binary Search <br />
-https://leetcode.com/explore/learn/card/binary-search/
-
 - Recursion <br />
 https://leetcode.com/explore/learn/card/recursion-i/ <br />
 https://leetcode.com/explore/learn/card/recursion-ii/
@@ -35,6 +29,7 @@ https://leetcode.com/explore/learn/card/n-ary-tree/
 - Backtraking <br />
 https://www.youtube.com/watch?v=A80YzvNwqXA&ab_channel=freeCodeCamp.org <br />
 https://www.youtube.com/watch?v=s7AvT7cGdSo&ab_channel=NeetCode
+
 - Sliding Window <br />
 https://www.youtube.com/watch?v=jM2dhDPYMQM&t=1465s&ab_channel=QuanticDev
 
@@ -54,6 +49,13 @@ https://leetcode.com/explore/learn/card/dynamic-programming/
 
 - Mixed List Includes all Topics <br/>
 https://leetcode.com/list/9i3vd4f6
+
+##### Nice To Have for beginners
+- Sorting <br />
+https://leetcode.com/explore/learn/card/sorting/ 
+
+- Binary Search <br />
+https://leetcode.com/explore/learn/card/binary-search/
 
 ##### General Links
 
