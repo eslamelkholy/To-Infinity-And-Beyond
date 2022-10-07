@@ -15,6 +15,9 @@ https://leetcode.com/explore/learn/card/array-and-string/ <br/>
 - Sorting <br />
 https://leetcode.com/explore/learn/card/sorting/ 
 
+- Binary Search <br />
+https://leetcode.com/explore/learn/card/binary-search/
+
 - Recursion <br />
 https://leetcode.com/explore/learn/card/recursion-i/ <br />
 https://leetcode.com/explore/learn/card/recursion-ii/
@@ -22,14 +25,12 @@ https://leetcode.com/explore/learn/card/recursion-ii/
 - Queue & Stack <br/>
 https://leetcode.com/explore/learn/card/queue-stack/
 
+- Linkedlist <br />
+https://leetcode.com/explore/learn/card/linked-list/
+
 - Binary Tree & Trees <br />
 https://leetcode.com/explore/learn/card/data-structure-tree/ <br />
 https://leetcode.com/explore/learn/card/n-ary-tree/
-
-- Binary Search <br />
-https://leetcode.com/explore/learn/card/binary-search/
-- Linkedlist <br />
-https://leetcode.com/explore/learn/card/linked-list/
 
 - Backtraking <br />
 https://www.youtube.com/watch?v=A80YzvNwqXA&ab_channel=freeCodeCamp.org <br />
@@ -38,12 +39,14 @@ https://www.youtube.com/watch?v=s7AvT7cGdSo&ab_channel=NeetCode
 https://www.youtube.com/watch?v=jM2dhDPYMQM&t=1465s&ab_channel=QuanticDev
 
 ##### Advanced
-- Graph <br />
-https://leetcode.com/explore/learn/card/graph/
 - Heap <br />
 https://leetcode.com/explore/learn/card/heap/ <br />
 https://www.youtube.com/watch?v=t0Cq6tVNRBA&ab_channel=HackerRank <br />
 https://www.youtube.com/watch?v=B7hVxCmfPtM&ab_channel=MITOpenCourseWare
+
+- Graph <br />
+https://leetcode.com/explore/learn/card/graph/
+
 - Greedy <br />
 https://www.youtube.com/watch?v=bC7o8P_Ste4&ab_channel=freeCodeCamp.org
 - Dynamic Programming <br />
