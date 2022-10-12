@@ -10,7 +10,7 @@ https://leetcode.com/explore/featured/card/the-leetcode-beginners-guide/
 https://leetcode.com/explore/learn/card/hash-table/
 
 - Arrays <br />
-[Arrays, Strings, 2D Matrix, Two Pointers]
+[Arrays, Strings, 2D Matrix, Two Pointers] <br/>
 https://leetcode.com/explore/learn/card/array-and-string/ <br/>
 https://leetcode.com/explore/learn/card/fun-with-arrays/ <br/>
 
