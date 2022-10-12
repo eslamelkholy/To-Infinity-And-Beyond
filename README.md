@@ -6,11 +6,13 @@ We will Hack your Career At this Repository
 https://leetcode.com/explore/featured/card/the-leetcode-beginners-guide/
 
 - Hash Table <br />
+[ Hash Map, Hash Set, Design Key, Caching ] <br/>
 https://leetcode.com/explore/learn/card/hash-table/
 
 - Arrays <br />
-https://leetcode.com/explore/learn/card/fun-with-arrays/ <br/>
+[Arrays, Strings, 2D Matrix, Two Pointers]
 https://leetcode.com/explore/learn/card/array-and-string/ <br/>
+https://leetcode.com/explore/learn/card/fun-with-arrays/ <br/>
 
 - Recursion <br />
 https://leetcode.com/explore/learn/card/recursion-i/ <br />
