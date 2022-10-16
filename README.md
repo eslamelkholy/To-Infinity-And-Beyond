@@ -15,6 +15,7 @@ https://leetcode.com/explore/learn/card/array-and-string/ <br/>
 https://leetcode.com/explore/learn/card/fun-with-arrays/ <br/>
 
 - Linkedlist <br />
+[Singly Linkedlist, Doubly Linkedlist, Traverse, insert, delete, Reverse, Fast & Slow Pointers, Complexity ] <br/>
 https://leetcode.com/explore/learn/card/linked-list/
 
 - Recursion <br />
