@@ -14,6 +14,9 @@ https://leetcode.com/explore/learn/card/hash-table/
 https://leetcode.com/explore/learn/card/array-and-string/ <br/>
 https://leetcode.com/explore/learn/card/fun-with-arrays/ <br/>
 
+- Linkedlist <br />
+https://leetcode.com/explore/learn/card/linked-list/
+
 - Recursion <br />
 https://leetcode.com/explore/learn/card/recursion-i/ <br />
 https://leetcode.com/explore/learn/card/recursion-ii/ <br />
@@ -21,9 +24,6 @@ https://www.youtube.com/watch?v=IJDJ0kBx2LM&ab_channel=freeCodeCamp.org
 
 - Queue & Stack <br/>
 https://leetcode.com/explore/learn/card/queue-stack/
-
-- Linkedlist <br />
-https://leetcode.com/explore/learn/card/linked-list/
 
 - Binary Tree & Trees <br />
 https://leetcode.com/explore/learn/card/data-structure-tree/ <br />
