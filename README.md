@@ -16,6 +16,7 @@ https://leetcode.com/explore/learn/card/fun-with-arrays/ <br/>
 
 - Linkedlist <br />
 [Singly Linkedlist, Doubly Linkedlist, Traverse, insert, delete, Reverse, Fast & Slow Pointers, Complexity ] <br/>
+Focus >> Fast & Slow Pointers , Basic Operations Insert & Delete  <br/>
 https://leetcode.com/explore/learn/card/linked-list/
 
 - Recursion <br />
