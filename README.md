@@ -50,7 +50,8 @@ https://leetcode.com/explore/learn/card/graph/
 - Greedy <br />
 https://www.youtube.com/watch?v=bC7o8P_Ste4&ab_channel=freeCodeCamp.org
 - Dynamic Programming <br />
-https://leetcode.com/explore/learn/card/dynamic-programming/
+https://leetcode.com/explore/learn/card/dynamic-programming/ <br />
+https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-coding-interviews?aff=VOY6
 
 - Mixed List Includes all Topics <br/>
 https://leetcode.com/list/9i3vd4f6
