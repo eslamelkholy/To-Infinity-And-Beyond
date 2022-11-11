@@ -44,6 +44,9 @@ https://leetcode.com/explore/learn/card/heap/ <br />
 https://www.youtube.com/watch?v=t0Cq6tVNRBA&ab_channel=HackerRank <br />
 https://www.youtube.com/watch?v=B7hVxCmfPtM&ab_channel=MITOpenCourseWare
 
+- Trie
+https://leetcode.com/explore/learn/card/trie/ <br />
+
 - Graph <br />
 https://leetcode.com/explore/learn/card/graph/
 
