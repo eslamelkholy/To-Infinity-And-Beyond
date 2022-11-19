@@ -29,7 +29,10 @@ https://leetcode.com/explore/learn/card/queue-stack/
 
 - Binary Tree & Trees <br />
 https://leetcode.com/explore/learn/card/data-structure-tree/ <br />
-https://leetcode.com/explore/learn/card/n-ary-tree/
+https://leetcode.com/explore/learn/card/n-ary-tree/ <br />
+https://www.youtube.com/watch?v=dfaKCrJ2HAk <br />
+https://www.youtube.com/watch?v=fPz40W9mfCg <br />
+
 
 - Backtraking <br />
 https://leetcode.com/explore/learn/card/recursion-ii/472/backtracking/  <br />
