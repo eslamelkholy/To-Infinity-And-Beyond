@@ -20,6 +20,7 @@ Focus >> Fast & Slow Pointers , Basic Operations Insert & Delete  <br/>
 https://leetcode.com/explore/learn/card/linked-list/
 
 - Recursion <br />
+Focus >> Recurrence Relation & Base Case , Memoization <br/>
 https://leetcode.com/explore/learn/card/recursion-i/ <br />
 https://leetcode.com/explore/learn/card/recursion-ii/ <br />
 https://www.youtube.com/watch?v=IJDJ0kBx2LM&ab_channel=freeCodeCamp.org
