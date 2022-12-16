@@ -12,7 +12,7 @@ https://leetcode.com/explore/learn/card/hash-table/
 - Arrays <br />
 [Arrays, Strings, 2D Matrix, Two Pointers] <br/>
 https://leetcode.com/explore/learn/card/array-and-string/ <br/>
-https://leetcode.com/explore/learn/card/fun-with-arrays/ <br/>
+https://leetcode.com/explore/learn/card/fun-with-arrays/ (Bonus But You Can Ignore) <br/>
 
 - Linkedlist <br />
 [Singly Linkedlist, Doubly Linkedlist, Traverse, insert, delete, Reverse, Fast & Slow Pointers, Complexity ] <br/>
