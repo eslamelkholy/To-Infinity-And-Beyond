@@ -14,6 +14,9 @@ https://leetcode.com/explore/learn/card/hash-table/
 https://leetcode.com/explore/learn/card/array-and-string/ <br/>
 https://leetcode.com/explore/learn/card/fun-with-arrays/ (Bonus But You Can Ignore) <br/>
 
+- Queue & Stack <br/>
+https://leetcode.com/explore/learn/card/queue-stack/
+
 - Linkedlist <br />
 [Singly Linkedlist, Doubly Linkedlist, Traverse, insert, delete, Reverse, Fast & Slow Pointers, Complexity ] <br/>
 Focus >> Fast & Slow Pointers , Basic Operations Insert & Delete  <br/>
@@ -28,9 +31,6 @@ https://www.youtube.com/watch?v=IJDJ0kBx2LM&ab_channel=freeCodeCamp.org
 - Recursion || <br />
 Focus >> Divide and Conquer , Backtracking, Master Theorem <br/>
 https://leetcode.com/explore/learn/card/recursion-ii/ <br />
-
-- Queue & Stack <br/>
-https://leetcode.com/explore/learn/card/queue-stack/
 
 - Binary Tree & Trees <br />
 https://leetcode.com/explore/learn/card/data-structure-tree/ <br />
