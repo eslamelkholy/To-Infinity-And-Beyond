@@ -40,6 +40,7 @@ https://www.youtube.com/watch?v=fPz40W9mfCg <br />
 
 
 - Backtraking <br />
+Def: Algorithm for finding all (or Some) Computational Problems **Backtrack** As soon as it Determine that canditate cannot lead to Valid Solution <br>
 https://leetcode.com/explore/learn/card/recursion-ii/472/backtracking/  <br />
 https://www.youtube.com/watch?v=A80YzvNwqXA&ab_channel=freeCodeCamp.org <br />
 https://www.youtube.com/watch?v=s7AvT7cGdSo&ab_channel=NeetCode <br />
