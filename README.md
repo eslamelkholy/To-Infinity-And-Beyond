@@ -77,6 +77,8 @@ https://leetcode.com/explore/learn/card/sorting/
 https://leetcode.com/explore/learn/card/binary-search/
 
 ##### General Links
+- Neetcode Channel <br/>
+https://www.youtube.com/@NeetCode/playlists <br/>
 
 - Grokking The Coding Interview <br />
 https://www.educative.io/courses/grokking-the-coding-interview
