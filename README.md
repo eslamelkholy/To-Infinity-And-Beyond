@@ -53,7 +53,8 @@ https://www.youtube.com/watch?v=jM2dhDPYMQM&t=1465s&ab_channel=QuanticDev
 Focus: [Heap != Priority Queue, Min Heap, Max Heap, Heap Sort, Top K Problems, Kth Element] <br/>
 https://leetcode.com/explore/learn/card/heap/ <br />
 https://www.youtube.com/watch?v=t0Cq6tVNRBA&ab_channel=HackerRank <br />
-https://www.youtube.com/watch?v=B7hVxCmfPtM&ab_channel=MITOpenCourseWare
+https://www.youtube.com/watch?v=B7hVxCmfPtM&ab_channel=MITOpenCourseWare <br/>
+Heap Version: https://www.npmjs.com/package/@datastructures-js/priority-queue/v/4.1.1 <br/?
 
 - Trie <br />
 https://leetcode.com/explore/learn/card/trie/ <br />
@@ -110,6 +111,8 @@ https://www.educative.io/courses/grokking-adv-system-design-intvw
 - System Design Interview Book <br />
 https://www.amazon.com/System-Design-Interview-insiders-Second/dp/B08CMF2CQF
 
+- Leetcode Supported Packages <br/>
+https://support.leetcode.com/hc/en-us/articles/360011833974-What-are-the-environments-for-the-programming-languages
 
 
 ### Agile
