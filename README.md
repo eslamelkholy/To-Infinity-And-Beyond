@@ -50,6 +50,7 @@ https://www.youtube.com/watch?v=jM2dhDPYMQM&t=1465s&ab_channel=QuanticDev
 
 ##### Advanced
 - Heap <br />
+Focus: [Heap != Priority Queue, Min Heap, Max Heap, Heap Sort, Top K Problems, Kth Element] <br/>
 https://leetcode.com/explore/learn/card/heap/ <br />
 https://www.youtube.com/watch?v=t0Cq6tVNRBA&ab_channel=HackerRank <br />
 https://www.youtube.com/watch?v=B7hVxCmfPtM&ab_channel=MITOpenCourseWare
