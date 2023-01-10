@@ -54,7 +54,7 @@ Focus: [Heap != Priority Queue, Min Heap, Max Heap, Heap Sort, Top K Problems, K
 https://leetcode.com/explore/learn/card/heap/ <br />
 https://www.youtube.com/watch?v=t0Cq6tVNRBA&ab_channel=HackerRank <br />
 https://www.youtube.com/watch?v=B7hVxCmfPtM&ab_channel=MITOpenCourseWare <br/>
-Heap Version: https://www.npmjs.com/package/@datastructures-js/priority-queue/v/4.1.1 <br/?
+Heap Version: https://www.npmjs.com/package/@datastructures-js/priority-queue/v/4.1.1 <br/>
 
 - Trie <br />
 https://leetcode.com/explore/learn/card/trie/ <br />
