@@ -46,7 +46,8 @@ https://www.youtube.com/watch?v=A80YzvNwqXA&ab_channel=freeCodeCamp.org <br />
 https://www.youtube.com/watch?v=s7AvT7cGdSo&ab_channel=NeetCode <br />
 
 - Sliding Window <br />
-https://www.youtube.com/watch?v=jM2dhDPYMQM&t=1465s&ab_channel=QuanticDev
+https://leetcode.com/explore/featured/card/leetcodes-interview-crash-course-data-structures-and-algorithms/703/arraystrings/4502/ <br />
+https://www.youtube.com/watch?v=jM2dhDPYMQM&t=1465s&ab_channel=QuanticDev <br />
 
 ##### Advanced
 - Heap <br />
