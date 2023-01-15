@@ -126,9 +126,7 @@ https://support.leetcode.com/hc/en-us/articles/360011833974-What-are-the-environ
 ### Datbase
 https://www.udemy.com/course/database-engines-crash-course/ <br/>
 
-### Agile
-
-### Behavioral
+### Agile & Behavioral
 - How to answer Amazon’s trickiest interview question <br />
 https://www.educative.io/blog/why-amazon-interview-question
 
@@ -137,7 +135,7 @@ https://www.educative.io/blog/behavioral-interviews-how-to-prepare-and-ace-inter
 
 ### General Topics
 
-### Solid & Design Patterns
+### OOP, Solid And Design Patterns
 https://github.com/eslamelkholy/Design-Patterns-in-The-Kitchen <br />
 https://github.com/MahmoudAbuzeed/SOLID-Principles  <br />
 https://www.educative.io/blog/solid-principles-oop-c-sharp#what
