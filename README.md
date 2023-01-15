@@ -73,7 +73,6 @@ https://www.educative.io/courses/grokking-dynamic-programming-patterns-for-codin
 TODO: <br/>
 
 - Monotonic stack <br/>
-TBD <br/>
 https://leetcode.com/discuss/study-guide/2347639/a-comprehensive-guide-and-template-for-monotonic-stack-based-problems <br/>
 
 - Mixed List Includes all Topics <br/>
