@@ -125,14 +125,15 @@ https://support.leetcode.com/hc/en-us/articles/360011833974-What-are-the-environ
 ### Datbase
 https://www.udemy.com/course/database-engines-crash-course/ <br/>
 
+### A/B Testing
+TBD:
+
 ### Agile & Behavioral
 - How to answer Amazon’s trickiest interview question <br />
 https://www.educative.io/blog/why-amazon-interview-question
 
 - How to prepare and ace interview questions  <br />
 https://www.educative.io/blog/behavioral-interviews-how-to-prepare-and-ace-interview-questions
-
-### General Topics
 
 ### OOP, Solid And Design Patterns
 https://github.com/eslamelkholy/Design-Patterns-in-The-Kitchen <br />
