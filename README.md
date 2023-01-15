@@ -126,7 +126,8 @@ https://support.leetcode.com/hc/en-us/articles/360011833974-What-are-the-environ
 https://www.udemy.com/course/database-engines-crash-course/ <br/>
 
 ### A/B Testing
-TBD:
+- Shopify A/B Guide
+https://www.shopify.com/blog/the-complete-guide-to-ab-testing <br/>
 
 ### Agile & Behavioral
 - How to answer Amazon’s trickiest interview question <br />
