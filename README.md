@@ -58,6 +58,7 @@ https://www.youtube.com/watch?v=B7hVxCmfPtM&ab_channel=MITOpenCourseWare <br/>
 Heap Version: https://www.npmjs.com/package/@datastructures-js/priority-queue/v/4.1.1 <br/>
 
 - Trie <br />
+Focus: [Implement Trie (Prefix Tree), insert, traverse ] <br/>
 https://leetcode.com/explore/learn/card/trie/ <br />
 
 - Graph <br />
